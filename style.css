@@ -1,0 +1,28 @@
+body {
+    background-color: yellowgreen;
+    font-family: sans-serif;
+}
+
+h1 {
+    color: rgba(255,255,255,0.75);
+}
+
+h2 {
+    color: #006699;
+}
+
+div {
+    border: 5px double red;
+    border-width: 5px;
+    border-style:groove;
+    border-color: blue;
+    border-top: 5px solid red;
+}
+
+.class-name {
+    border-color: darkgreen;
+}
+
+#id-name {
+    background: yellow;
+}

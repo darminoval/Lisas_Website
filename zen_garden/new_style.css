@@ -3,58 +3,66 @@
 }
 
 .summary {
-    border: white;
+    margin: 5px;
+    background: rgba(169,169,169,0.75);
+    color: white;
+    padding-left: 2px;
+    padding-right: 2px;
+    font: 80% helvetica;
 }
 .preamble {
-    border: white;
+    margin: 5px;
 }
 .explanation {
-    border: white;
+    margin: 5px;
+    margin-top: 200px;
 }
 .participation {
-    border: white;
+    margin: 5px;
 }
 .benefits {
-    border: white;
+    margin: 5px;
 }
 .requirements {
-    border: white;
+    margin: 5px;
 }
 footer {
-    border: white;
+    margin: 5px;
 }
 .sidebar {
-    border: white;
+    margin: 5px;
 }
 .wrapper {
     border: white;
     padding: 10px;
-    margin-top: 100px;
+    margin-top: 70px;
     width: 180px;
 }
 h1 {
-    border: 2px solid white;
+    border: 3px solid white;
     padding: 5px;
     margin: 5px;
     color: white;
     text-transform: uppercase;
-    font: helvetica;
+    font: 150% helvetica;
     width: 220px;
 }
 h2 {
-    border: 2px solid white;
+    border: 3px solid white;
     padding: 5px;
     margin: 5px;
     color: white;
     text-transform: uppercase;
-    font: helvetica;  
+    font: 150% helvetica;  
     width: 180px;
 }
 h3 {
-    border: 2px solid black;
-    color: black;
+    border: 1px solid white;
+    color: white;
     text-transform: uppercase;
-    font: helvetica;
+    font: 95% helvetica;
+    padding: 5px;
+    text-align: center;
 }
 body {
     background: #164441; /* Old browsers */

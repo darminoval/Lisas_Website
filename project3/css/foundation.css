@@ -5784,7 +5784,7 @@ a{
     color: #E09C9C; 
 }
 a:hover {
-    color: gray;
+    color: lightgray;
 }
 a overlay {
     position: absolute;
